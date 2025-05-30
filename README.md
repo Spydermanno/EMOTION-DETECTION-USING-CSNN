@@ -3,6 +3,7 @@
 
 This project explores real-time facial emotion recognition using a **Convolutional Spiking Neural Network (CSNN)**. Inspired by the biological workings of the human brain, this energy-efficient model is designed for performance on neuromorphic hardware while maintaining high accuracy on emotion classification tasks.
 
+To study about it in detail go to Emotion Detection using snn.pdf 
 ---
 
 ## 🎯 Objective
